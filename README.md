@@ -3,10 +3,11 @@
 **[Ver página](https://diegoalex24.github.io/PHP-examples)**
 
 Este repositorio está dirigido a todas las personas que buscan aprender o repasar las características de **PHP**.
-[Image](https://raw.githubusercontent.com/diegoAlex24/PHP-examples/master/PHP-logo.png)
+
+![Image PHP](https://raw.githubusercontent.com/diegoAlex24/PHP-examples/master/PHP-logo.png)
 
 ### PHP
-Todos los códigos son recopilatorios de diversos tutoriales, tareas y ejemplos de internet. :grinning:
+Todos los códigos son recopilatorios de diversos tutoriales, tareas y ejemplos de internet.
 
 ```php
 `<?php
