@@ -10,9 +10,9 @@ Este repositorio está dirigido a todas las personas que buscan aprender o repas
 Todos los códigos son recopilatorios de diversos tutoriales, tareas y ejemplos de internet.
 
 ```php
-`<?php
+<?php
     echo "¡Hola PHP!";    
- ?>`
+?>
 ```
 
 ### Contenido
