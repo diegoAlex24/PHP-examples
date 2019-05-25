@@ -18,7 +18,14 @@ Todos los códigos son recopilatorios de diversos tutoriales, tareas y ejemplos 
 ### Contenido
 
 1. programa_1.php
-    * Hola mundo
+    * Comentarios
+    * Aritmética
+    * Variables
+    * Impresión de variables
+    * Concatenación
+    * Constantes
+    * Diferentes formas de usar la función echo
+    * Números aleatorios
 
 [Repositorio](https://github.com/diegoAlex24/PHP-examples).
 
