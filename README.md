@@ -30,4 +30,12 @@ Todos los códigos son recopilatorios de diversos tutoriales, tareas y ejemplos 
 [Repositorio](https://github.com/diegoAlex24/PHP-examples).
 
 ### Otros repositorios
-* 
+* [C++](https://diegoalex24.github.io/C-Plus-Plus-examples)
+* [C](https://diegoalex24.github.io/C-examples)
+* [C#](https://diegoalex24.github.io/C-Sharp-examples)
+* [HTML y CSS](https://diegoalex24.github.io/HTML-CSS-examples)
+* [Python](https://diegoalex24.github.io/Python-examples)
+* [Java](https://diegoalex24.github.io/Java-examples)
+* [Angular](https://diegoalex24.github.io/Angular-examples)
+* [Ionic](https://diegoalex24.github.io/Ionic-examples)
+* [SQL](https://diegoalex24.github.io/SQL-examples)
