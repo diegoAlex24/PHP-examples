@@ -18,9 +18,21 @@ Todos los códigos son recopilatorios de diversos tutoriales, tareas y ejemplos 
 ### Contenido
 
 1. programa_1.php
+    * Etiquetas de PHP
     * Comentarios
+        * Una línea
+        * Multilínea
+	* Mostrar contenido
     * Aritmética
+        * Suma
+        * Resta
+        * Multiplicación
+        * División
+        * Resto/Modulo
     * Variables
+        * Cadena
+        * Entero
+        * Booleano
     * Impresión de variables
     * Concatenación
     * Constantes
